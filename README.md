@@ -1,5 +1,7 @@
 # Users - Frontend
 
+Aplicação frontend para cadastro de usuários, utilizando Vue, Vuetify, Vuex e Apollo.
+
 ## Project setup
 ```
 npm install
